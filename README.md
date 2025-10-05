@@ -27,4 +27,6 @@ The "Til" part of [TilNotDrip](https://www.tilnotdrip.org/).
 
 [![Til's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@TechnikTil&theme=vision-friendly-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Til's Total Wakatime](https://wakatime.com/badge/user/adbd4bf6-3415-40a5-9d7a-f00f5ba43ce5.svg)](https://wakatime.com/@adbd4bf6-3415-40a5-9d7a-f00f5ba43ce5)
+
 play sunday night chillin'
