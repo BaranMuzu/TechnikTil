@@ -8,7 +8,7 @@ The "Til" part of [TilNotDrip](https://www.tilnotdrip.org/).
 (btw pfp by gameboy1969)
 
 ## About Me
- - 14 yo
+ - 15 yo
  - i liek yellowe :)
  - Born in Germany, moved to Canada in 2020!
  - i code (shocker) <!--holy crap!-->
