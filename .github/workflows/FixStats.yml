@@ -28,7 +28,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: wakatime
-          options: username=TechnikTil&theme=vision-friendly-dark&layout=compact
+          options: username=TechnikTil&theme=vision-friendly-dark&layout=compact&custom_title=TechnikTil's%20WakaTime%20Stats
           path: profile/wakatime.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
