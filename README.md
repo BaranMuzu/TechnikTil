@@ -23,9 +23,8 @@ The "Til" part of [TilNotDrip](https://www.tilnotdrip.org/).
 
 ## GitHub Stats:
 
-[![Til's GitHub stats](https://github-readme-stats.vercel.app/api?username=TechnikTil&theme=vision-friendly-dark&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Til's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@TechnikTil&theme=vision-friendly-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img src="profile/wakatime.svg" alt="Techniktil's WakaTime stats" width="48%" />
+<img src="profile/stats.svg" alt="Techniktil's Github Stats" width="48%" />
 
 [![Til's Total Wakatime](https://wakatime.com/badge/user/adbd4bf6-3415-40a5-9d7a-f00f5ba43ce5.svg)](https://wakatime.com/@adbd4bf6-3415-40a5-9d7a-f00f5ba43ce5)
 
